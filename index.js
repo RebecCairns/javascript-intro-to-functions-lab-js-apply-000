@@ -16,7 +16,7 @@ function sayHiToGrandma(string){
   if(string ===dumbyString2){
     return "YES INDEED!"
   }
-  if(string !== dumbyString2 && string !== dumbyString){
+  if(string != dumbyString2 && string != dumbyString){
     return "I love you, too."
   }
 }
