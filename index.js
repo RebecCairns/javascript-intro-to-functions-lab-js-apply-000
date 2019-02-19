@@ -8,9 +8,13 @@ function logShout(string){
   console.log(string);
 }
 function sayHiToGrandma(string){
-  var dumbyString = string.toLowerCase
+  var dumbyString = string.toLowerCase;
   if (string === dumbyString){
+     return "I can't hear you!";
+  }
+  dumbyString = dumbyString.toUpperCase();
+  if(string ===dumbyString){
     
   }
-  if 
 }
+  
