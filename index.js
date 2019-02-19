@@ -8,5 +8,9 @@ function logShout(string){
   console.log(string);
 }
 function sayHiToGrandma(string){
+  var dumbyString = string.toLowerCase
+  if (string === dumbyString){
+    
+  }
   if 
 }
