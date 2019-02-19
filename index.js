@@ -12,7 +12,7 @@ function sayHiToGrandma(string){
   if (string === dumbyString){
      return "I can't hear you!";
   }
-  var dumbyString2 = dumbyString.toUpperCase();
+  var dumbyString2 = string.toUpperCase();
   if(string ===dumbyString2){
     return "YES INDEED!"
   }
